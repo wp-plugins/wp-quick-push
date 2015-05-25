@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?business=akyjoe@gmail.com&cmd
 Tags: parse.com, wordpress push, mobile push, push notification, push, notification, ios, android, channels, windows,
 Requires at least: 3.3
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
