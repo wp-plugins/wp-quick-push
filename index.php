@@ -1,7 +1,7 @@
 <?php
 /**
  * @package WP_QUICK_PUSH
- * @version 1.0
+ * @version 1.01
  */
 /*
 Plugin Name: WP Quick Push
@@ -14,7 +14,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
-if (!defined('WQP_VERSION')) define('WQP_VERSION', '1.0');
+if (!defined('WQP_VERSION')) define('WQP_VERSION', '1.01');
 
 /* Trigger Dependencies */
 function quickpush_admin_init() {
