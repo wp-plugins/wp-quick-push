@@ -8,7 +8,7 @@ Plugin Name: WP Quick Push
 Plugin URI: http://wordpress.org/plugins/wp-quick-push/
 Description: Quickly send notification to Push enabled devices from WordPress dashboard. The Plugin also facilitates customized JSON data support for your applications.  Currently supporting only Parse.com Push Service (for iOS, Android, Windows etc.). One must have cURL enabled on the host and some patience.
 Author: TheCreatology
-Version: 1.0
+Version: 1.01
 Author URI: http://www.thecreatology.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
