@@ -64,7 +64,5 @@ function quickpush_plugin_on_uninstall(){
 /* Register Functions */
 add_action('admin_init', 'quickpush_admin_init', 1);
 add_action('admin_menu', 'quickpush_admin_actions');  
-add_action('future_to_publish', 'quickpush_future_to_publish');
-add_action( 'transition_post_status', 'quickpush_save_post', 10, 3 );
 register_uninstall_hook(__FILE__, 'quickpush_plugin_on_uninstall');
 ?>
